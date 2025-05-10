@@ -7,25 +7,8 @@ Trae 進階實戰開發
 [user_rules.md](user_rules.md)
 
 ## project_rules.md
-一般放在 `.trae\rules` 目錄下，影響範圍為目前專案。
-```markdown
-請保持對話語言為繁體中文，並使用台灣用語  
-我們系統為 Windows 環境，操作指令使用可在 PowerShell 7 模式下能執行的為主  
-生成代碼時請添加最終設計  
-開發前需先製作規格文件，規格需包含以下項目  
-1. 需求分析  
-2. 架構圖型（需與開發者確認）  
-3. 流程圖  
-4. 時序圖  
-5. 物件關聯圖  
-6. 模擬圖  
-規格書完成後需製作 todolist，開始開發後須依據 todolist 進行，每次小任務都須確認，完成後需打勾  
-專案完成後需製作 README，包含以下內容  
-1. 專案功能描述  
-2. 專案啟用方式  
-3. 專案執行步驟  
-```
-
+一般放在 `.trae\rules` 目錄下，影響範圍為目前專案。  
+[project_rules.md](.trae\rules\project_rules.md)
 
 # 智能體
 ## Mobile Flutter Agent
