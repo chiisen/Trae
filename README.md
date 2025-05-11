@@ -1,5 +1,5 @@
 # Trae
-Trae 進階實戰開發
+Trae 進階實戰開發【Trae 是字節跳動（ByteDance）推出、專為中文開發者打造的免費 AI 程式輔助工具，結合頂級 AI 模型與全中文介面】
 
 ![Trae](./images/Trae.png)
 
